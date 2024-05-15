@@ -1,0 +1,16 @@
+//TODO
+{
+  "name": "tsu-store",
+  "version": "0.0.0",
+  "cli": {
+    "packageManager": "pnpm"
+  },
+  "scripts": {
+
+  },
+  "private": true,
+  "dependencies": {
+
+  },
+
+}
